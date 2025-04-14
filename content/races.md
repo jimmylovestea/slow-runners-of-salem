@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: '2025 Race Schedule'
 date: "2025-04-13"
 author: Under Development
