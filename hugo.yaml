@@ -97,7 +97,8 @@ params:
     secondaryTextColor: "#4a4e69"
     textLinkColor: "#007bff"
     backgroundColor: "#f6edd2"
-    secondaryBackgroundColor: "#f6f0e1"
+    # secondaryBackgroundColor: "#f6f0e1"
+    secondaryBackgroundColor: "#f6edd2"
     primaryColor: "#4e93b4"
     secondaryColor: "#56c1d8"
 
