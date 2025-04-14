@@ -62,7 +62,7 @@ params:
   title: "Slow Runners of Salem"
   description: A friendly group for folks who run slow, or fast, near Salem, Oregon.
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/logo.jpg"
+  favicon: "/logo.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -139,7 +139,7 @@ params:
     content: |- 
       Come run with us Sunday mornings and Wednesday evenings. 
       [Visit our Instagram for times and meeting locations.](https://www.instagram.com/slowrunnersofsalem/)
-    image: /logo.jpg
+    image: logo.png
     bottomImage:
       enable: false
     # roundImage: true # Make hero image circular | default false
@@ -167,7 +167,8 @@ params:
   about:
     enable: true
     title: "About Us"
-    image: "/images/slow-runners.jpg"
+    # image: "/images/slow-runners.jpg"
+    image: "logo-text.png"
     content: |-
       Running is hard. But it's also a lot more fun and enjoyable when you run with friends. So we, the Slow Runners of Salem, follow two beliefs: 
       
